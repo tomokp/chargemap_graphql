@@ -1,5 +1,5 @@
 {
-  "name": "chargemap-gql",
+  "name": "hello-gql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,20 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarnokorstanje/chargemap-gql.git"
+    "url": "git+https://github.com/ilkkamtk/SSSF21-gql-hello.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jarnokorstanje/chargemap-gql/issues"
+    "url": "https://github.com/ilkkamtk/SSSF21-gql-hello/issues"
   },
-  "homepage": "https://github.com/jarnokorstanje/chargemap-gql#readme",
+  "homepage": "https://github.com/ilkkamtk/SSSF21-gql-hello#readme",
   "type": "module",
   "dependencies": {
-    "apollo-server-express": "^2.22.2",
+    "apollo-server-express": "^2.22.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "graphql": "^15.5.0",
-    "mongoose": "^5.12.3"
+    "mongoose": "^5.12.2"
   }
 }
