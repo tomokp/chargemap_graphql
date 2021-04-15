@@ -1,6 +1,6 @@
 # chargemap-gql
 
-example requests: http://node152605-jakor-mongo-node.jelastic.metropolia.fi/graphql (live) or http://localhost:3000/graphql (locally)
+example requests: http://node152667-chargemaptom.jelastic.metropolia.fi/graphql or http://localhost:3000/graphql (locally)
 
 ```graphql
 # get stations by boundaries
