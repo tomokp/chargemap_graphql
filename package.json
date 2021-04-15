@@ -1,26 +1,29 @@
 {
-  "name": "hello-gql",
+  "name": "chargemap-gql",
   "version": "1.0.0",
-  "description": "",
+  "description": "example requests: http://node152605-jakor-mongo-node.jelastic.metropolia.fi/graphql (live) or http://localhost:3000/graphql (locally)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ilkkamtk/SSSF21-gql-hello.git"
+    "url": "git+https://github.com/jarnokorstanje/chargemap-gql.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ilkkamtk/SSSF21-gql-hello/issues"
+    "url": "https://github.com/jarnokorstanje/chargemap-gql/issues"
   },
-  "homepage": "https://github.com/ilkkamtk/SSSF21-gql-hello#readme",
+  "homepage": "https://github.com/jarnokorstanje/chargemap-gql#readme",
   "type": "module",
   "dependencies": {
-    "apollo-server-express": "^2.22.1",
+    "apollo-server-express": "^2.22.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "mongoose": "^5.12.2"
-  }
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.3"
+  },
+  "devDependencies": {}
 }
