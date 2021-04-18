@@ -1,7 +1,7 @@
 {
   "name": "chargemap-gql",
   "version": "1.0.0",
-  "description": "example requests: http://node152666-chargemaptom.jelastic.metropolia.fi/graphql (live) or http://localhost:3000/graphql (locally)",
+  "description": "example requests: http://node152667-chargemaptom.jelastic.metropolia.fi/graphql (live) or http://localhost:3000/graphql (locally)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
